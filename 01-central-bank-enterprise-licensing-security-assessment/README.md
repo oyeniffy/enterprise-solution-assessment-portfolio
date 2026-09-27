@@ -1,7 +1,7 @@
-# Enterprise Solution Assessment — National Central Bank
+# Enterprise Solution Assessment — CBN
 
 **Engagement type:** Microsoft Solution Assessment (Licensing Compliance, Lifecycle Risk & Security Posture)
-**Client profile:** [Confidential Client — National Central Bank], large-scale, mission-critical, predominantly on-premises Microsoft technology estate
+**Client profile:** [Confidential Client — CBN], large-scale, mission-critical, predominantly on-premises Microsoft technology estate
 **Delivered by:** Task Systems Limited, under Microsoft's Solution Assessment partner program
 **My role:** Lead assessor and report author — engagement scoping, discovery orchestration, findings synthesis, risk prioritization, and executive-level reporting
 
